@@ -4,4 +4,5 @@ seconds_per_day= seconds_per_hour*24
 print("Seconds per day:",seconds_per_day)
 print (seconds_per_day/seconds_per_hour)
 print (seconds_per_day//seconds_per_hour)
-#The number does match with the floating point divison resulting in the hours in a day
+
+#The number does match with the floating point divison, this results in the amount of hours in a day
